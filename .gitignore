@@ -1,0 +1,23 @@
+# Secrets
+.secrets.json
+*.key
+*.pem
+
+# Node
+node_modules/
+npm-debug.log
+package-lock.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+tmp/
